@@ -36,8 +36,8 @@ plt.title("Elbow Curve")
 st.set_option("deprecation.showPyplotGlobalUse", False)
 elbo_plot = st.pyplot()
 
-st.sidebar.subheader("Nilai jumlah K")
-clust = st.sidebar.slider("Pilih jumlah cluster :", 2, 10, 3, 1)
+st.header("Nilai jumlah K")
+clust = st.sidebar("Pilih jumlah cluster :", 2, 10, 3, 1)
 
 
 def k_means(best_k):
