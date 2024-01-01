@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 from sklearn.cluster import KMeans
 
-st.write("Customer Spending Clustering", fontsize=16)
+st.write("<h1 style='text-align: center; color: blue;'>Customer Spending Clustering</h1>")
 
 df = pd.read_csv("customer_data.csv")
 
