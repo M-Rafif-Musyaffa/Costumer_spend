@@ -64,6 +64,7 @@ Dataset yang digunakan: [Customer Spending](https://www.kaggle.com/datasets/goya
 **Rubrik/Kriteria Tambahan (Opsional)**:
 
 - Visualisai Data
+  <br>
   ![Visualisasi menggunakan Seaborn](Gambar/Vsd1.png)
   <br>
   ![Visualisasi menggunakan Seaborn](Gambar/Vsd2.png)
