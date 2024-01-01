@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 from sklearn.cluster import KMeans
 
+plt.header("Customer Spending Clustering",fontsiza=32)
+
 df = pd.read_csv("customer_data.csv")
 
 X = df.drop(["name", "country", "gender", "education", "purchase_frequency"], axis=1)
