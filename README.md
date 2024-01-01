@@ -8,13 +8,13 @@
 
 ## Domain Proyek
 
-Pada proyek ini bertujuan untuk membantu memahami pola pengeluaran uang pelanggan dan mengidentifikasi kelompok pelanggan dengan perilaku pengeluaran yang serupa. Melalui teknik clustering, kami akan mengelompokkan pelanggan berdasarkan umur, pola pendapatan,dan pola pengeluaran. Hasil analisis klaster ini akan membantu untuk merancang strategi pemasaran yang lebih efektif, menyesuaikan penawaran produk, dan meningkatkan pengalaman pelanggan.
+Pada proyek ini bertujuan untuk membantu memahami pola pengeluaran uang pelanggan dan mengidentifikasi kelompok pelanggan dengan perilaku pengeluaran yang serupa. Melalui teknik clustering, kami akan mengelompokkan pelanggan berdasarkan umur, pola pendapatan,dan pengeluaran. Hasil analisis klaster ini akan membantu untuk merancang strategi pemasaran yang lebih efektif, menyesuaikan penawaran produk, dan meningkatkan pengalaman pelanggan.
 
 ## Business Understanding
 
-Pada proyek ini, masalah bisnis yang ingin diselesaikan adalah untuk memahami perilaku pelanggan berdasarkan pola pendapatan,dan pola pengeluaran mereka. Dengan memahami perilaku pelanggan, perusahaan dapat mengembangkan strategi pemasaran yang lebih efektif.
+Pada proyek ini, masalah bisnis yang ingin diselesaikan adalah untuk memahami perilaku pelanggan berdasarkan pola pendapatan,dan pengeluaran mereka. Dengan memahami perilaku pelanggan, perusahaan dapat mengembangkan strategi pemasaran yang lebih efektif.
 
-### Problem Statementsbard
+### Problem Statement
 
 - Bagaimana cara mengkelompokan pelanggan berdasarkan pola pengeluaran dan pola pendapatan?
 - Bagaimana pola pengeluaran pelanggan dapat membantu dalam pengambilan keputusan bisnis?
