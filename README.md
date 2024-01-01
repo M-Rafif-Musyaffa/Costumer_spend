@@ -64,13 +64,13 @@ Dataset yang digunakan: [Customer Spending](https://www.kaggle.com/datasets/goya
 **Rubrik/Kriteria Tambahan (Opsional)**:
 
 - Visualisai Data
-  ![Visualisasi menggunakan Seaborn](Gambar\Vsd1.png)
+  ![Visualisasi menggunakan Seaborn](Gambar/Vsd1.png)
   <br>
-  ![Visualisasi menggunakan Seaborn](Gambar\Vsd2.png)
+  ![Visualisasi menggunakan Seaborn](Gambar/Vsd2.png)
   <br>
-  ![Visualisasi menggunakan Seaborn](Gambar\Vsd3.png)
+  ![Visualisasi menggunakan Seaborn](Gambar/Vsd3.png)
   <br>
-  ![Visualisasi menggunakan Seaborn](Gambar\Vsd4.png)
+  ![Visualisasi menggunakan Seaborn](Gambar/Vsd4.png)
 
 ## Data Preparation
 
@@ -204,7 +204,7 @@ Inertia (juga dikenal sebagai WCSS - Within-Cluster Sum of Squares) adalah metri
 
 Secara matematis, inersia untuk kelompok k dihitung dengan rumus berikut:
 
-![Rumus inertia](Gambar\inertia.png)
+![Rumus inertia](Gambar/inertia.png)
 
 Tujuan dalam k-means adalah untuk meminimalkan nilai inersia. Semakin kecil inersia, semakin baik, karena ini menunjukkan bahwa titik data dalam kelompok cenderung berada lebih dekat satu sama lain dan dengan pusat kelompok.
 
