@@ -8,7 +8,7 @@
 
 ## Domain Proyek
 
-Pada proyek ini bertujuan untuk membantu memahami pola pengeluaran uang pelanggan dan mengidentifikasi kelompok pelanggan dengan perilaku pengeluaran yang serupa. Melalui teknik clustering, kami akan mengelompokkan pelanggan berdasarkan umur, pola pendapatan,dan pengeluaran. Hasil analisis klaster ini akan membantu untuk merancang strategi pemasaran yang lebih efektif, menyesuaikan penawaran produk, dan meningkatkan pengalaman pelanggan.
+Pada proyek ini bertujuan untuk membantu memahami pola pengeluaran uang pelanggan dan mengidentifikasi kelompok pelanggan dengan perilaku pengeluaran yang serupa. Melalui teknik clustering, kami akan mengelompokkan pelanggan berdasarkan umur, pola pendapatan dan pengeluaran. Hasil analisis klaster ini akan membantu untuk merancang strategi pemasaran yang lebih efektif, menyesuaikan penawaran produk, dan meningkatkan pengalaman pelanggan.
 
 ## Business Understanding
 
@@ -16,7 +16,7 @@ Pada proyek ini, masalah bisnis yang ingin diselesaikan adalah untuk memahami pe
 
 ### Problem Statement
 
-- Bagaimana cara mengkelompokan pelanggan berdasarkan pola pengeluaran dan pola pendapatan?
+- Bagaimana cara mengkelompokan pelanggan berdasarkan pola pengeluaran dan pendapatan?
 - Bagaimana pola pengeluaran pelanggan dapat membantu dalam pengambilan keputusan bisnis?
 - Bagaimana perusahaan mengukur efektivitas strategi pemasaran yang ada dalam meningkatkan pengeluaran pelanggan?
 - Apakah ada peluang untuk meningkatkan penjualan atau kepuasan pelanggan berdasarkan data pengeluaran?
@@ -36,7 +36,7 @@ Pada proyek ini, masalah bisnis yang ingin diselesaikan adalah untuk memahami pe
 
 ## Data Understanding
 
-Untuk Proyek ini saya menggunakan data yang berasal dari kaggle.Dataset ini memiliki 8 Atribut,tetapi yang digunakan dalam proyek ini hanya 3.
+Untuk Proyek ini saya menggunakan data yang berasal dari kaggle. Dataset ini memiliki 8 Atribut,tetapi yang digunakan dalam proyek ini hanya 3.
 
 Dataset yang digunakan: [Customer Spending](https://www.kaggle.com/datasets/goyaladi/customer-spending-dataset).
 
