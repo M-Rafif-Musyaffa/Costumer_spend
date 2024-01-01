@@ -213,4 +213,4 @@ Cara umum untuk menggunakan inersia dalam pemilihan jumlah klaster yang optimal 
 ## Deployment
 
 Link Streamlit : [Clustering Customer Spending](https://m-rafif-musyaffa-costumer-spend-k-means-i29pwd.streamlit.app/)
-![Streamlit](Gambar\Streamlit.png)
+![Streamlit](Gambar/Streamlit.png)
